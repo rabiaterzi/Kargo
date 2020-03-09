@@ -1,0 +1,43 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\terzi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\terzi\\OneDrive\\Masaüstü\\masaüstü\\kargo\\kargo\\kargo.csproj",
+      "projectName": "kargo",
+      "projectPath": "C:\\Users\\terzi\\OneDrive\\Masaüstü\\masaüstü\\kargo\\kargo\\kargo.csproj",
+      "packagesPath": "C:\\Users\\terzi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\terzi\\OneDrive\\Masaüstü\\masaüstü\\kargo\\kargo\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\terzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {}
+    }
+  }
+}

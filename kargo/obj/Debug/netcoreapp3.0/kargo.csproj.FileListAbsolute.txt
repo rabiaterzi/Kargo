@@ -1,0 +1,11 @@
+C:\Users\terzi\source\repos\kargo\kargo\bin\Debug\netcoreapp3.0\kargo.exe
+C:\Users\terzi\source\repos\kargo\kargo\bin\Debug\netcoreapp3.0\kargo.deps.json
+C:\Users\terzi\source\repos\kargo\kargo\bin\Debug\netcoreapp3.0\kargo.runtimeconfig.json
+C:\Users\terzi\source\repos\kargo\kargo\bin\Debug\netcoreapp3.0\kargo.runtimeconfig.dev.json
+C:\Users\terzi\source\repos\kargo\kargo\bin\Debug\netcoreapp3.0\kargo.dll
+C:\Users\terzi\source\repos\kargo\kargo\bin\Debug\netcoreapp3.0\kargo.pdb
+C:\Users\terzi\source\repos\kargo\kargo\obj\Debug\netcoreapp3.0\kargo.csprojAssemblyReference.cache
+C:\Users\terzi\source\repos\kargo\kargo\obj\Debug\netcoreapp3.0\kargo.AssemblyInfoInputs.cache
+C:\Users\terzi\source\repos\kargo\kargo\obj\Debug\netcoreapp3.0\kargo.AssemblyInfo.cs
+C:\Users\terzi\source\repos\kargo\kargo\obj\Debug\netcoreapp3.0\kargo.dll
+C:\Users\terzi\source\repos\kargo\kargo\obj\Debug\netcoreapp3.0\kargo.pdb
